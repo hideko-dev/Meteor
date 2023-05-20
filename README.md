@@ -2,7 +2,7 @@
 
 A simple, meter-based to-do list built with Electron and React.
 
-![Meteor](assets/screenshot.png)
+![Meteor](assets/スクリーンショット 2023-05-20 221701.png)
 
 ## Download
 
