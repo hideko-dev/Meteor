@@ -6,7 +6,7 @@ A simple, meter-based to-do list built with Electron and React.
 
 ## Download
 
-Nab the latest version from the [Releases](https://github.com/cassidoo/Meteor/releases) page!
+Nab the latest version from the [Releases](https://github.com/Hideko-Dev/Meteor/releases) page!
 
 ## Development
 
