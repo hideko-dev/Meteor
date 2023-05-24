@@ -13,7 +13,7 @@ Nab the latest version from the [Releases](https://github.com/Hideko-Dev/Meteor/
 - Clone the repo:
 
 ```bash
-$ git clone https://github.com/cassidoo/Meteor.git
+$ git clone https://github.com/Hideko-Dev/Meteor.git
 ```
 
 - Go to the project directory and install dependencies:
